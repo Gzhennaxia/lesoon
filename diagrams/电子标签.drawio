@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-18T08:23:50.226Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nDN396kiOQbDR6REAVTQ" version="24.0.5" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2024-03-18T08:24:07.202Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_yIDWsSfy9rM81-j1VRG" version="24.0.5" type="github" pages="9">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
     <mxGraphModel dx="2536" dy="-229" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2099,7 +2099,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="复核查询-扫描格口" id="8zkbf9zzHU1tcquQcgQz">
-    <mxGraphModel dx="3675" dy="398" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3106" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="uEuyf29bcEo1PqaKfqGg-0" />
         <mxCell id="uEuyf29bcEo1PqaKfqGg-1" parent="uEuyf29bcEo1PqaKfqGg-0" />
@@ -2128,6 +2128,9 @@
           <mxGeometry x="257" y="880" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="yVHmsY2X-Zf1FnLDlB27-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="uEuyf29bcEo1PqaKfqGg-6" source="yVHmsY2X-Zf1FnLDlB27-0" target="yVHmsY2X-Zf1FnLDlB27-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yVHmsY2X-Zf1FnLDlB27-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="uEuyf29bcEo1PqaKfqGg-6" source="yVHmsY2X-Zf1FnLDlB27-0" target="yVHmsY2X-Zf1FnLDlB27-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yVHmsY2X-Zf1FnLDlB27-0" value="当前格口是否已分播完成" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;gradientColor=none;rounded=0;" vertex="1" parent="uEuyf29bcEo1PqaKfqGg-6">
